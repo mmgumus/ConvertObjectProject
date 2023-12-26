@@ -5,3 +5,5 @@
 - Api verilerini çekip view'e aktaran bir controller oluşturdum.
 - Kullanıcıları listelemek için basit bir razor sayfası oluşturdum. 
 - Dependency Injection ile servislerimi kullanmak için Startup.cs dosyasına servislerimi ekledim.
+
+![img_1.png](img_1.png)
