@@ -25,11 +25,6 @@ namespace ConvertObjectProject.Services
                 new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
 
             return users ?? new List<User>();
-            // var response = await _httpClient.GetAsync("https://gorest.co.in/public/v2/users");
-            // response.EnsureSuccessStatusCode();
-            //
-            // var content = await response.Content.ReadAsStringAsync();
-            // return JsonSerializer.Deserialize<List<User>>(content);
         }
     }
 }
