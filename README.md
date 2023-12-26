@@ -6,6 +6,6 @@
 - Kullanıcıları listelemek için basit bir razor sayfası oluşturdum.
 - Dependency Injection ile servislerimi kullanmak için Startup.cs dosyasına servislerimi ekledim.
 
-![image](https://share.cleanshot.com/PQJ6bvGH)
+![image](<https://share.cleanshot.com/PQJ6bvGH>)
 
 
